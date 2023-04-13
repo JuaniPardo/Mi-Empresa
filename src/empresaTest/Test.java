@@ -65,18 +65,18 @@ public class Test {
         clientes[1].setDireccion(direcciones[1]);
 
         clientes[2].setId(103);
-        clientes[2].setNombre("Alan Parker");
+        clientes[2].setNombre("Esteban Parker");
         clientes[2].setContacto("alanparker@gmail.com");
         clientes[2].setEstado('A');
         clientes[2].setDireccion(direcciones[2]);
 
-        empleados[0].setNombreEmpleado("Juan");
+        empleados[0].setNombreEmpleado("Francisco");
         empleados[0].setApellidoEmpleado("Perez");
         empleados[0].setId(1);
         empleados[0].setSalario(50000);
         empleados[0].setD1(direcciones[3]);
 
-        empleados[1].setNombreEmpleado("Luis");
+        empleados[1].setNombreEmpleado("Valentina");
         empleados[1].setApellidoEmpleado("Gomez");
         empleados[1].setId(2);
         empleados[1].setSalario(60000);
