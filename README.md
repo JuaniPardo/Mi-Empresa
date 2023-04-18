@@ -2,6 +2,7 @@
 
 Este es un proyecto de Java creado para la clase de Programación Orientada a Objetos, enfocado en el aprendizaje del encapsulamiento. 
 El proyecto simula una empresa y cuenta con varias clases que modelan diferentes aspectos de la misma.
+
 ![UML del Proyecto](https://github.com/JuaniPardo/Mi-Empresa/blob/main/Diagrama%20UML%20MiEmpresa.png)
 
 ## Uso del proyecto
